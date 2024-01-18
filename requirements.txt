@@ -1,0 +1,9 @@
+altair
+pandas
+streamlit
+hydralit
+matplotlib
+streamlit_lottie
+streamlit-card
+pandas
+st-star-rating
